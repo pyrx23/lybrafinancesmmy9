@@ -1,0 +1,25 @@
+.hiddenn {
+    /* display: none;
+    visibility: hidden; */
+}
+
+.parentt {
+    display: flex;
+    flex-direction: column;
+
+    /* background-color: red; */
+}
+
+.connectt-button {
+    /* margin: 0 auto; */
+    margin-bottom: -35px;
+    padding: 15px 25px;
+    font-size: larger;
+    font-weight: 800;
+    background-color: black;
+    appearance: none;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    width: fit-content;
+}
